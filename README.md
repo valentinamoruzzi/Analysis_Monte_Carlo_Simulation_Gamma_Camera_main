@@ -118,3 +118,9 @@ The script is designed to read binary files (e.g., `.hsb`) containing a flat arr
 - `ntuple[:, 14]` -> **`yslabesr`**: The energy-weighted reconstructed y-coordinate.
 
 If your simulation output has a different structure, you will need to adjust the column indices in the `analyze_simulation_file` function accordingly.
+
+## Authors
+
+- Francesco Amerigo Mellini
+- Andrea Mengolini
+- Valentina Moruzzi
